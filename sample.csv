@@ -1,0 +1,6 @@
+cart_id,user_id,status,category,cart_value,device
+1,101,completed,electronics,250,desktop
+2,102,abandoned,clothing,120,mobile
+3,103,completed,books,80,mobile
+4,104,abandoned,electronics,400,desktop
+5,105,completed,clothing,150,mobile
