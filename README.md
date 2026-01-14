@@ -6,7 +6,7 @@ This project demonstrates data exploration, visualization, and insights into cus
 ---
 
 ## 🌐 Live Demo
-👉 [Try the App Here](https://shopping-cart-analysis.streamlit.app)
+👉 [Try the App Here](https://shopping-cart-analysis-5huz4eqfsodkvw9m6pxmyq.streamlit.app/)
 
 ---
 
